@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Expense Tracker",
+    "\\Expense Tracker\\Expense Tracker",
+    "\\Expense Tracker\\Expense Tracker\\Controllers",
+    "\\Expense Tracker\\Expense Tracker\\Models",
+    "\\Expense Tracker\\Expense Tracker\\Views",
+    "\\Expense Tracker\\Expense Tracker\\Views\\Category",
+    "\\Expense Tracker\\Expense Tracker\\Views\\Shared",
+    "\\Expense Tracker\\Expense Tracker\\wwwroot",
+    "\\Expense Tracker\\Expense Tracker\\wwwroot\\css"
   ],
+  "SelectedNode": "\\Expense Tracker\\Expense Tracker\\Views\\Category\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }
